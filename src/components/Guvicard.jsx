@@ -12,9 +12,9 @@ import Buttoncard from "./Buttoncard";
     }
     function getType(type) {
       if (type == "WE") {
-        return "Week End";
+         return "Week END";
       } else if (type == "WD") {
-        return "Weed Day";
+        return "Week Day";
       } else {
         return "NIL";
       }
